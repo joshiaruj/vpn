@@ -16,6 +16,8 @@
     {"id":6, "app":"com.get.client"}
   ],
   "free":[
-    {"id":0, "file":0, "city":"United States","country":"United States","image":"unitedstates","ip":"104.198.73.35","active":"true","signal":"a"},
+    {"id":0, "file":0, "city":"Las Vegas","country":"Las Vegas","image":"unitedstates","ip":"136.37.114.42","active":"true","signal":"a"},
+    {"id":1, "file":1, "city":"California","country":"California","image":"unitedstates","ip":"70.172.104.111","active":"true","signal":"a"},
+    {"id":2, "file":2, "city":"Russia","country":"Russia","image":"russia","ip":"219.100.37.119","active":"true","signal":"a"},
   ]
 }
